@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 使用GitHub Pages创建博客
 ---
 
