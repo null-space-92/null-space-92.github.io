@@ -14,3 +14,6 @@ jekyll new myblog
 jekyll new myblog
 ```
 
+```python
+import tensorflow as tf
+```
